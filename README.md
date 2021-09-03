@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mateusz
-- 👀 I’m interested in Technology, Programming languages,  Fantasy / sci-fi (books, movies, board games)
 - 🌱 I’m currently learning HTML, CSS and JS
 
 <!---
